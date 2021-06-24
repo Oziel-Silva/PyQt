@@ -27,7 +27,7 @@ class Janela(QMainWindow):
 
         self.CarregarJanela()
 
-    def CarregarJanela(self):
+    def CarregarJanela(self): # function for 
         self.setGeometry(self.esquerda, self.topo, self.largura,self.altura)
         self.setWindowTitle(self.titulo)
         self.show()
