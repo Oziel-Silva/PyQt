@@ -1,2 +1,4 @@
 # PyQt
-to install PyQt use pip install PyQt5
+To install PyQt use:
+
+#pip install PyQt5
